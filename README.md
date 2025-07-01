@@ -55,7 +55,7 @@ Created an interactive dashboard featuring:
 * **Rider Demographics:** Breakdown of casual vs. registered users
 * **Hourly Profitability:** Heatmap of sales by day and hour
 
-![Dashboard Preview](https://github.com/shreyashsupe/Dashboard-Projects/blob/main/Bike%20Data%20Analysis%20\(SQl%2BPowerbi\)/Dashboard.png)
+![Dashboard Preview](https://github.com/ahd-rafi/Bike-Shop-Sales-Analysis-SQL-Power-BI/blob/main/Dashboard.png)
 
 ---
 
@@ -100,7 +100,3 @@ Created an interactive dashboard featuring:
 ## 🧾 Conclusion
 
 This project delivers key insights into sales patterns, rider behavior, and profit drivers. With a data-backed pricing strategy and operational adjustments, the bike shop can boost revenue and enhance customer satisfaction. The dashboard enables stakeholders to explore data interactively and make informed business decisions.
-
----
-
-Let me know if you'd like a 1-line version for your resume or a brief summary for LinkedIn/GitHub!
