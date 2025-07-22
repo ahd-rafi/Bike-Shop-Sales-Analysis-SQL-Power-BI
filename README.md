@@ -101,5 +101,3 @@ Created an interactive dashboard featuring:
 
 This project delivers key insights into sales patterns, rider behavior, and profit drivers. With a data-backed pricing strategy and operational adjustments, the bike shop can boost revenue and enhance customer satisfaction. The dashboard enables stakeholders to explore data interactively and make informed business decisions.
 
-
-
